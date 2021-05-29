@@ -1,0 +1,377 @@
+{
+  "captcha_img": "https://lh6.googleusercontent.com/kb-whOlKjG8IHr3jpyIu6IbOaj4MvOLRX7wKTLlgm5iMzsnVNFX951LrtjTHc1ZoN8xBKv3hu9NNew=w1366-h657",
+  "responseDataCheerio": {
+    "uuid": "2c66c8f0-c08d-11eb-8529-0242ac130003",
+    "case_details": {
+      "caseType": "TS - TITLE SUIT",
+      "filingNumber": "3534/2020",
+      "registrationNumber": "576/2020",
+      "cnrNumber": "WBCC01-001921-2020",
+      "filingdata": "10-08-2020",
+      "registrationDate": "10-08-2020"
+    },
+    "case_status": {
+      "firstHearingDate": "10th August 2020",
+      "nextHearingDate": "03rd June 2021",
+      "caseStage": "Hearing of Petition",
+      "courtNumberAndJudge": " 4-LD JUDGE 4th BENCH"
+    },
+    "petitioner": [
+      {
+        "name": "Niru Bhutoria"
+      }
+    ],
+    "petitioner_advocate": [
+      {
+        "name": "Bimal Kumar Puruhit"
+      }
+    ],
+    "respondent": [
+      {
+        "name": "The Calcutta Racket Club"
+      }
+    ],
+    "respondent_advocate": [
+      {
+        "name": "Hrishikesh Shroff"
+      }
+    ],
+    "laws": [
+      {
+        "type": "act/law",
+        "sectionNo": "34",
+        "name": "Specific Relief Act"
+      }
+    ],
+    "hearings": [
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      },
+      {
+        "date": "10-08-2020",
+        "nextdate": "10-09-2020",
+        "purpose": "Requisites",
+        "judge": "LD JUDGE 4th BENCH",
+        "business": [
+          {
+            "courtName": "City Civil Court, Calcutta",
+            "inTheCourtOf": "LD JUDGE 4th BENCH",
+            "crnNumber": "WBCC010019212020",
+            "caseNumber": "TS/0000576/2020",
+            "petitioner": "Niru Bhutoria",
+            "respondent": "The Calcutta Racket Club",
+            "date": "10-08-2020",
+            "businessIn": "Prayer of ad-interim order of injunction is allowed. For S/R",
+            "nextPurpose": "Requisites",
+            "nextHearingDate": "10-09-2020"
+          }
+        ]
+      }
+    ],
+    "orders": [
+      {
+        "orderDate": "15-03-2021",
+        "type": "Interlocatory Order",
+        "orderDetailsPdfPath": "display_pdf.php?filename=/orders/2020/202400005762020_1.pdf&caseno=TS/576/2020&cCode=5&appFlag=&normal_v=1",
+        "orderNo": "1"
+      }
+    ]
+  }
+}
